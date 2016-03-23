@@ -1,0 +1,63 @@
+
+div {
+	border-radius: 10px;
+}
+body {
+	background-color: ;
+}
+#header {
+    z-index: 1;
+    margin-top: ;
+    text-align: center;
+    background-color: #aaaaaa;
+    width: 87.5%;
+    position: relative;
+    height: 170px;
+    float: top;
+    font-family: sans-serif;
+    box-shadow: 4px 4px 6px #777777;
+}
+
+.left {	
+	background-color: #B9D7D9;
+	margin-top: ;
+	width: 20%;
+	float:left;
+	position: inline;
+	font-family: serif;
+	font-size: 140%; 
+	text-align: center;
+	font-family: Monospace;
+	box-shadow: 4px 4px 6px #777777;
+}
+
+.right {
+	margin-top: ;
+	background-color: #F4EBC3;
+	position: inline;
+	float: right;	
+	width: 88%;
+	display: inline;
+	font-family: "Trebuchet MS";
+	box-shadow: 4px 4px 6px #777777;
+}
+#footer {
+	position: relative;
+	clear:  both;
+	background-color: #668284;
+	text-align: center;
+	height: 35px;
+	width: 95%;
+	float: bottom;
+	box-shadow: 4px 4px 6px #777777;
+}
+.edu {
+	display: inline;
+	width: 33%;
+	float: left;
+	text-align: center;
+	border-right: solid 1px blue;
+}
+	
+
+
